@@ -5,6 +5,7 @@ import android.os.Bundle
 
 /**
  * Created by Matt Ng on 9/14/20
+ * Modified by Dominic Cobb
  */
 class MainActivity: Activity() {
 
